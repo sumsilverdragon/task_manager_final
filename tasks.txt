@@ -1,9 +1,2 @@
 admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2021, Yes
 admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 27 Aug 2021, Yes
-summer, bugs, fix login bugs, 11 Aug 2021, 27 Aug 2021, Yes
-admoon, last question, complete last question of project, 12 Aug 2021, 27 Aug 2021, No
-seven, nothio, mofefof, overferf, 2 Sep 2021, Yes
-summer, Fix report bugs, fic counting of completed and uncompleted tasks, 28 Aug 2021, 29 Aug 2021, No
-admin, fix status bugs, last line statues should have new line cha, 28 Aug 2021, 29 Aug 2021, No
-summer, bugs, bugs, 28 Aug 2021, 29 Aug 2021, Yes
-summer, check overdue, check for overdue bugs, 29 Aug 2021, 27 Aug 2021, No
