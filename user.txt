@@ -1,7 +1,2 @@
 admin, adm1n
 newuser, newpass
-admoon, adm00n
-fourth, fooort
-seven, nine
-summer, s0mmer
-loki, p0ki
